@@ -1,0 +1,9 @@
+train: train/images
+val: valid/images
+
+nc: 2
+
+# Classes
+names:
+  0: helmet
+  1: not
